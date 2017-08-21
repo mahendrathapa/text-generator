@@ -1,0 +1,23 @@
+Today you are you. 
+That is truer than true. 
+There is no one alive who is you-er than you.
+You have brains in your head. 
+You have feet in your shoes. 
+You can steer yourself any direction you choose. 
+You’re on your own.
+The more that you read, the more things you will know. 
+The more that you learn, the more places you’ll go.
+Think left and think right and think low and think high. 
+Oh, the thinks you can think up if only you try.
+Python is a great tool for processing data. 
+It is likely that any program you write will involve reading, writing, or manipulating data. 
+For this reason, it's especially useful to know how to handle different file formats, which store different types of data.
+For example, consider a Python program that checks a list of users for access control. 
+Your list of users will likely be stored and saved in a text file. 
+Perhaps you are not working with text, but instead have a program that does financial analysis. 
+In order to do some number crunching, you will likely have to input those numbers from a saved spreadsheet. 
+Regardless of your application, it is almost guaranteed that inputting or outputting data will be involved.
+This tutorial will briefly describe some of the format types Python is able to handle. 
+After a brief introduction to file formats, we'll go through how to open, read, and write a text file in Python 3.
+
+
