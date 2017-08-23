@@ -13,7 +13,7 @@ def generate_random_sentence(length, markov_model):
     current_word = generate_random_start(markov_model)
     sentence = [current_word]
 
-    for i in range(0, length):
+    for i in range(1, length):
 
         current_dictogram = markov_model[current_word]
         random_weighted_word = current_dictogram.return_weighted_random_word()

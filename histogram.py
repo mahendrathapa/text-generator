@@ -13,7 +13,7 @@ class Dictogram(dict):
 
         for item in iterable:
             if item in self:
-                self[item] = +1
+                self[item] += 1
                 self.tokens += 1
             else:
                 self[item] = 1
